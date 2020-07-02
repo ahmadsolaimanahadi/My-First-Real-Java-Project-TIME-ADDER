@@ -54,6 +54,9 @@ public class Time_Adder {
 		} else {
 			System.out.println("The answer is " + answerHour + ":" + answerMinute + ":" + answerSecond);
 		}
+		
+		// Comment & Edit
+		System.out.println("HelloJava!");
 
 	}
 }
